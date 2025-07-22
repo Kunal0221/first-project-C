@@ -1,2 +1,2 @@
-# first-project-C
-my first project of C will be Bank Management System
+# output
+my first project of C will be Student Record System
